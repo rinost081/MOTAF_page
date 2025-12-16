@@ -1,80 +1,36 @@
-# Academic Project Page Template
+# Hand Held Multi-Object Tracking Dataset in American Football
 
-> **Update (September 2025)**: This template has been modernized with better design, SEO, and mobile support. For the original version, see the [original-version branch](https://github.com/eliahuhorwitz/Academic-project-page-template/tree/original-version).
-
-A clean, responsive template for academic project pages.
-
-
-Example project pages built using this template are:
-- https://horwitz.ai/probex
-- https://vision.huji.ac.il/probegen
-- https://horwitz.ai/mother
-- https://horwitz.ai/spectral_detuning
-- https://vision.huji.ac.il/ladeda
-- https://vision.huji.ac.il/dsire
-- https://horwitz.ai/podd
-- https://dreamix-video-editing.github.io
-- https://horwitz.ai/conffusion
-- https://horwitz.ai/3d_ads/
-- https://vision.huji.ac.il/ssrl_ad
-- https://vision.huji.ac.il/deepsim
+## Overview
+Our work is a Multi-Object Tracking dataset in American football. 
 
 
+## Dataset
+- **AFMOT**  
+  The first American football MOT dataset. [[ArXiv]](https://arxiv.org/abs/2511.09455)
 
-## Start using the template
-To start using the template click on `Use this Template`.
+## Download
+Please fill out the **Google Form**[https://docs.google.com/forms/d/e/1FAIpQLSckeZ_CFOh1xgujS8NrcYKdRAgfXX-jLc_flboyRVPStDE7aA/viewform] to request the dataset.
+A download link will be provided upon approval.
 
-The template uses html for controlling the content and css for controlling the style. 
-To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.  
+## License
+Released under **CC BY-NC-SA 4.0**.  
+For **academic research only**. Commercial use is prohibited.
 
-**IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a dreambooth image of me.
+## Privacy Commitment
+Users must not attempt to identify or infer personal information about any individual appearing in the dataset.
 
-## What's New
+## Citation
+If you use this dataset, please cite:
 
-- Modern, clean design with better mobile support
-- Improved SEO with proper meta tags and structured data
-- Performance improvements (lazy loading, optimized assets)
-- More Works dropdown
-- Copy button for BibTeX citations
-- Better accessibility
-
-## Components
-
-- Teaser video
-- Image carousel
-- YouTube video embedding
-- Video carousel
-- PDF poster viewer
-- BibTeX citation
-
-## Customization
-
-The HTML file has TODO comments showing what to replace:
-
-- Paper title, authors, institution, conference
-- Links (arXiv, GitHub, etc.)
-- Abstract and descriptions  
-- Videos, images, and PDFs
-- Related works in the dropdown
-- Meta tags for SEO and social sharing
-
-### Meta Tags
-The template includes meta tags for better search engine visibility and social media sharing. These appear in the `<head>` section and help with:
-- Google Scholar indexing
-- Social media previews (Twitter, Facebook, LinkedIn)
-- Search engine optimization
-
-Create a 1200x630px social preview image at `static/images/social_preview.png`.
-
-## Tips
-
-- Compress images with [TinyPNG](https://tinypng.com)
-- Use YouTube for large videos (>10MB)  
-- Replace the favicon in `static/images/`
-- Works with GitHub Pages
-
-## Acknowledgments
-Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
+```bibtex
+@inproceedings{otsubo2025hand,
+  title={Hand Held Multi-Object Tracking Dataset in American Football},
+  author={Otsubo, Rintaro and Sawafuji, Kanta and Saito, Hideo},
+  booktitle={Proceedings of the 8th International ACM Workshop on Multimedia Content Analysis in Sports},
+  pages={148--155},
+  year={2025}
+}
+```
 
 ## Website License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
