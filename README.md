@@ -1,7 +1,7 @@
 # Hand Held Multi-Object Tracking Dataset in American Football
 
 ## Overview
-Our work is a Multi-Object Tracking dataset in American football. 
+We built Multi-Object Tracking Dataset in American football. 
 
 
 ## Dataset
@@ -9,7 +9,7 @@ Our work is a Multi-Object Tracking dataset in American football.
   The first American football MOT dataset. [[ArXiv]](https://arxiv.org/abs/2511.09455)
 
 ## Download
-Please fill out the **Google Form**[https://docs.google.com/forms/d/e/1FAIpQLSckeZ_CFOh1xgujS8NrcYKdRAgfXX-jLc_flboyRVPStDE7aA/viewform] to request the dataset.
+Please fill out the [**Google Form**](https://docs.google.com/forms/d/e/1FAIpQLSckeZ_CFOh1xgujS8NrcYKdRAgfXX-jLc_flboyRVPStDE7aA/viewform) to request the dataset.
 A download link will be provided upon approval.
 
 ## License
